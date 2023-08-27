@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dungd200803btvn
-- 👀 I’m interested in Android Developer 
-- 🌱 I’m currently learning Kotlin ,Jetpack Compose
+- 👀 I’m interested in Android Developer,Ios,Flutter,React Js to Pro Mobile Developer 
+- 🌱 I’m currently learning Java,Kotlin ,Jetpack Compose and many library,Framework of Android
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me
 
